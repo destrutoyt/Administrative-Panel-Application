@@ -1,0 +1,12 @@
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\bin\Debug\Garces_CourseProjectPart2.exe.config
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\bin\Debug\Garces_CourseProjectPart2.exe
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\bin\Debug\Garces_CourseProjectPart2.pdb
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.csproj.AssemblyReference.cache
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.MainForm.resources
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.Properties.Resources.resources
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.csproj.GenerateResource.cache
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.exe
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.pdb
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.InputForm.resources
+C:\Users\Miguel Garces\Desktop\C-Sharp\Garces_CourseProjectPart2\Garces_CourseProjectPart2\obj\Debug\Garces_CourseProjectPart2.csproj.SuggestedBindingRedirects.cache
